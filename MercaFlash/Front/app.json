@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MercaFlash",
+    "slug": "mercaflash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F1E8"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F5F1E8"
+      },
+      "package": "com.mercaflash.app"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mercaflash.app"
+    }
+  }
+}
